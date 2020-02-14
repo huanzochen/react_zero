@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "react-hot-loader": "^4.12.19"
   }
 }
